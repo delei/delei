@@ -12,9 +12,7 @@
 
 ## Hi! Nice to meet you!
 
-<!-- 个人简介 -->
 - 👋 Hi, I’m @Delei
 - 👀 I’m interested in Java, backend development, databases, vue etc.
 - 📚 I’m currently learning AI application development.
-- 💞️ I’m looking for bigger challenges or better job opportunities.
 - 📫 How to reach me? Email: deleiguo@163.com or deleiguo@gmail.com
