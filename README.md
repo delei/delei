@@ -9,9 +9,6 @@
 </a>
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=delei&no-frame=true)
-
-
 ## Hi! Nice to meet you!
 
 - 👋 Hi, I’m @Delei
